@@ -1,4 +1,4 @@
-here is a link to my favortie **website!**(http://google.com)
+here is a link to my favorite **website!**(http://google.com)
 
 
 
